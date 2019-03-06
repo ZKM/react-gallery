@@ -1,6 +1,6 @@
 
 
-## Insight Front­End Challenge
+## Label Insight Front-End Challenge
 
 In this challenge, we would like you to create a small JavaScript application around an API. You  
 can access the test API at "[https://jsonplaceholder.typicode.com/photos](https://jsonplaceholder.typicode.com/photos)".
